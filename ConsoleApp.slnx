@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Uebung_2_1/Uebung_2_1.csproj" />
+    <Project Path="src/Uebung_2_2/Uebung_2_2.csproj" />
+  </Folder>
   <Project Path="src/HelloWorld/HelloWorld.csproj" />
 </Solution>
